@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Clinic Management System",
+  "description": "Complete, modern, professional Doctor Clinic Management & EMR System for private clinics and medical practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
